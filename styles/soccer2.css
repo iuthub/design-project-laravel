@@ -224,6 +224,8 @@ body{
 	text-decoration: none;
 }
 .HEAD{
+	position: relative;
+	top:0;
 	height: 70px;
 }
 .search-input{
